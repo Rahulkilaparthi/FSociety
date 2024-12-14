@@ -10,7 +10,7 @@
 
 #
 <h1><b>What Is Fsociety ?</h1></b>
-<h2>Fsociety (also known as f*** society), is the name of a hacker group based in Coney Island, New York, led by the mysterious Mr. Robot. Its name is a play on both the derelict amusement park building in which it has its headquarters, and their message: "f**k society." </h2><br>
+<h2>Fsociety (also known as  Fsociety), is the name of a hacker group based in Coney Island, New York, led by the mysterious Mr. Robot. Its name is a play on both the derelict amusement park building in which it has its headquarters, and their message: "f**k society." </h2><br>
 <img src="https://static.wikia.nocookie.net/mrrobot/images/1/1b/F_Society.png/revision/latest/scale-to-width-down/284?cb=20150601075342"><br>
 
 #
